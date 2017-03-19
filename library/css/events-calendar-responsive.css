@@ -1,0 +1,12 @@
+
+@media only screen and (max-width: 600px) {
+  .mkdf-tribe-events-single .mkdf-events-single-main-info .mkdf-events-single-title-holder .mkdf-events-single-cost {
+    position: relative;
+    margin-top: 20px;
+    -webkit-transform: translateY(0);
+    -moz-transform: translateY(0);
+    transform: translateY(0);
+  }
+}
+
+/*# sourceMappingURL=events-calendar-responsive.css.map */
