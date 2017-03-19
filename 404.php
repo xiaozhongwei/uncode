@@ -7,7 +7,7 @@
 
 get_header();
 
-	/** Init variables **/
+	/** Init variables1 **/
 	$limit_width = $limit_content_width = $the_content = $main_content = $partial_content = $media_shortcode = $page_header_type = $page_class = '';
 	$show_title = true;
 
